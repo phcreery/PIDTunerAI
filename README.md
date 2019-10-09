@@ -38,6 +38,7 @@ This code performes two seperate actions - Learning & Fixing
  print("Actual:\n", y)
  print("Predictions:\n", predictions)
  ```
+ ![PID Graphs](/lib/pid_tuning.png)
  
  ## TODO
  - [ ] Better Neural Network
