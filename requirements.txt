@@ -1,0 +1,9 @@
+tensorflow==1.14.0
+terminalplot==0.2.6
+#asciiplotlib==0.2.1
+matplotlib
+#tflearn==0.3.2
+#tensorflow==1.5.0
+#tqdm==4.35.0
+#pandas==0.25.1
+#numpy==1.17.1
