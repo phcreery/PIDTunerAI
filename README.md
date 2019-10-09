@@ -38,7 +38,15 @@ This code performes two seperate actions - Learning & Fixing
  print("Actual:\n", y)
  print("Predictions:\n", predictions)
  ```
+ 
+ ## About PID
+ 
+ PID is a formula for cloes loop systems control processes, (ex. temperature, flow rate, balance, etc.)
+ It is used to regulate output for accurate processing
+ [Wikipedia](https://en.wikipedia.org/wiki/PID_controller)
+ 
  ![PID Graphs](/lib/pid_tuning.png)
+ [Source](https://onion.io/2bt-pid-control-python/)
  
  ## TODO
  - [ ] Better Neural Network
