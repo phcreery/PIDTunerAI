@@ -1,4 +1,4 @@
-tensorflow==1.14.0
+tensorflow==1.15.4
 terminalplot==0.2.6
 #asciiplotlib==0.2.1
 matplotlib
